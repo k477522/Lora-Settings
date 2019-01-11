@@ -1,0 +1,1 @@
+輔助來透過COMPORT下指令給LORA模組，自製Termiter。

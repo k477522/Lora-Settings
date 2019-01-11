@@ -1,0 +1,17 @@
+D:\GitProject\Tool\MyTermite\LoraTest_Slave\bin\Debug\LoraTest_Slave.exe.config
+D:\GitProject\Tool\MyTermite\LoraTest_Slave\bin\Debug\LoraTest_Slave.exe
+D:\GitProject\Tool\MyTermite\LoraTest_Slave\bin\Debug\LoraTest_Slave.pdb
+D:\GitProject\Tool\MyTermite\LoraTest_Slave\obj\Debug\LoraTest_Slave.Form1.resources
+D:\GitProject\Tool\MyTermite\LoraTest_Slave\obj\Debug\LoraTest_Slave.Properties.Resources.resources
+D:\GitProject\Tool\MyTermite\LoraTest_Slave\obj\Debug\LoraSettings.csproj.GenerateResource.Cache
+D:\GitProject\Tool\MyTermite\LoraTest_Slave\obj\Debug\LoraTest_Slave.exe
+D:\GitProject\Tool\MyTermite\LoraTest_Slave\obj\Debug\LoraTest_Slave.pdb
+D:\GitProject\Tool\MyTermite\LoraSettings\bin\Debug\LoraTest_Slave.exe.config
+D:\GitProject\Tool\MyTermite\LoraSettings\bin\Debug\LoraTest_Slave.exe
+D:\GitProject\Tool\MyTermite\LoraSettings\bin\Debug\LoraTest_Slave.pdb
+D:\GitProject\Tool\MyTermite\LoraSettings\obj\Debug\LoraTest_Slave.Form1.resources
+D:\GitProject\Tool\MyTermite\LoraSettings\obj\Debug\LoraTest_Slave.Properties.Resources.resources
+D:\GitProject\Tool\MyTermite\LoraSettings\obj\Debug\LoraSettings.csproj.GenerateResource.Cache
+D:\GitProject\Tool\MyTermite\LoraSettings\obj\Debug\LoraTest_Slave.exe
+D:\GitProject\Tool\MyTermite\LoraSettings\obj\Debug\LoraTest_Slave.pdb
+D:\GitProject\Tool\MyTermite\LoraSettings\obj\Debug\LoraTest_Slave.PldForm.resources
